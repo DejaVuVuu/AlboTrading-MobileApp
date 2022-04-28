@@ -4,7 +4,7 @@
 ## TODO TASKS
 ## Vi : # 0, 5, 2
 ## Cami : (please input the task # here)
-## Johnny : (please input the task # here)
+## Johnny : # 1
 ### 0. Setup Database
 - [ ] Design data schema
 - [ ] Connect to database
